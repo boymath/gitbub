@@ -1,2 +1,0 @@
-# gitbub
-choi vui ghe
